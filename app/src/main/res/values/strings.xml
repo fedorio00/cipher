@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cipher</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cipher</string>
+    <string name="nav_header_subtitle">v1.1.0</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Шифр Виженера</string>
+    <string name="menu_gallery">Шифр Цезаря</string>
+    <string name="menu_slideshow">XoR шифрование</string>
+    <string-array name="spinner_items">
+        <item>Русский</item>
+        <item>Английский</item>
+    </string-array>
+</resources>
